@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 is a cvs file like this?
 
 add changes in master branch, 11.2
+=======
+is a cvs file like this? 
+change in feature1, 11.1
+>>>>>>> feature1
